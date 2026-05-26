@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $pass  = $_POST['password'];
 
  
-    if ($email == "24160676@itoaxaca.edu.mx" && $pass == "24160676TSO") {
+    if ($email == "24160577@itoaxaca.edu.mx" && $pass == "24160676TSO") {
         $_SESSION['user'] = $email;
         header("Location: admin.php");
         exit();
