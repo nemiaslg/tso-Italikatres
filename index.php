@@ -28,16 +28,6 @@
     <p>Distribuidora oficial de refacciones originales para mantener tu moto al 100%.</p>
 </section>
 
-<section id="productos">
-    <h2>Nuestros Productos</h2>
-    <ul>
-        <li>Bujías de alto rendimiento</li>
-        <li>Aceite Italika original</li>
-        <li>Balatas cerámicas</li>
-        <li>Llantas para todo terreno CMABIOS</li>
-    </ul>
-</section>
-
 <section id="mision">
     <h2>Misión</h2>
     <p>Brindar soluciones de movilidad de calidad a nuestros clientes.</p>
