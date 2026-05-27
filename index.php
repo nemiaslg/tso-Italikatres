@@ -34,7 +34,7 @@
         <li>Bujías de alto rendimiento</li>
         <li>Aceite Italika original</li>
         <li>Balatas cerámicas</li>
-        <li>Llantas para todo terreno</li>
+        <li>Llantas para todo terreno CMABIOS</li>
     </ul>
 </section>
 
