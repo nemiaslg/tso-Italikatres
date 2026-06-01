@@ -30,7 +30,7 @@ if (isset($_GET['delete'])) {
     </style>
 </head>
 <body>
-    <h1>Gestión de Refacciones - Italika</h1>
+    <h1> Refacciones Nehemias </h1>
     <p>Bienvenido: <?php echo $_SESSION['user']; ?> | <a href="logout.php">Cerrar Sesión</a></p>
 
     <a href="crear.php" class="btn-add">+ Agregar Nueva Refacción</a>
