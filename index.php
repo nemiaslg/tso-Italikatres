@@ -29,7 +29,7 @@
 </section>
 
 <section id="mision">
-    <h2>MISIÓN</h2>
+    <h2>Misión de Italika</h2>
     <p>Brindar soluciones de movilidad de calidad a nuestros clientes.</p>
     <h2>VISIÓN</h2>
     <p>Ser la opción número uno en mantenimiento de motocicletas en México.</p>
