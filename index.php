@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<header><h1>Italika: El motor de tu vida</h1></header>
+<header><h1>Tercera Oportunidad - tso - geca</h1></header>
 
 <nav>
     <a href="#inicio">Inicio</a>
