@@ -24,7 +24,7 @@
 </nav>
 
 <section id="inicio">
-    <h2>Bienvenido</h2>
+    <h2>BIENVENIDO</h2>
     <p>Distribuidora oficial de refacciones originales para mantener tu moto al 100%.</p>
 </section>
 
