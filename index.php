@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<header><h1>ITALIKA. El Motor De Tu Vida</h1></header>
+<header><h1>Italika. El motor de tu vida</h1></header>
 
 <nav>
     <a href="#inicio">Inicio</a>
@@ -29,9 +29,9 @@
 </section>
 
 <section id="mision">
-    <h2>Misión de Italika</h2>
+    <h2>Misión</h2>
     <p>Brindar soluciones de movilidad de calidad a nuestros clientes.</p>
-    <h2>Visión de Italika</h2>
+    <h2>Visión</h2>
     <p>Ser la opción número uno en mantenimiento de motocicletas en México.</p>
 </section>
 
