@@ -29,9 +29,9 @@
 </section>
 
 <section id="mision">
-    <h2>Misión <3</h2>
+    <h2>Misión</h2>
     <p>Brindar soluciones de movilidad de calidad a nuestros clientes.</p>
-    <h2>Visión <3</h2>
+    <h2>Visión</h2>
     <p>Ser la opción número uno en mantenimiento de motocicletas en México.</p>
 </section>
 
