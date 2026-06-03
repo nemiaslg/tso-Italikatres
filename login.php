@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8">
 </head>
 <body>
-    <h2>Acceso al Sistema Administrativo</h2>
+    <h2>Acceso al Sistema Administrativo nehemias</h2>
     <form method="POST">
         <input type="email" name="email" placeholder="tunumcontrol@itoaxaca.edu.mx" required>
         <br><br>
